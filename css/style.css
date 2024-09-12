@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-image: url('images/header-bg.jpg'); /* Optional: Add a background image */
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+/* .navbar {
+    font-weight: 700;
+} */
+
+
+footer {
+    background-color: #333;
+}
